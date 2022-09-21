@@ -8,6 +8,6 @@ Also intent on learning more about C/C++ and Java.
 
 Other things I enjoy doing besides programming:
 
-- Studying anthropology, philosophy & tech-related stuff
+- Studying anthropology, philosophy, & tech-related stuff
 - Contemplating the marvels of the world
 - Watching K-dramas
